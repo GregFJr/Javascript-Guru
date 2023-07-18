@@ -50,7 +50,7 @@ const quizQuestions = [
   },
 ];
 
-// Event listener for starting the quiz
+
 
 restartButton.style.display = "none";
 
